@@ -15,13 +15,13 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=andyh_82" target="_blank">
+<!--   <a href="https://api.daily.dev/get?r=andyh_82" target="_blank">
     <img
       width="256"
       align="right"
       src="https://github.com/andrewhuntington/andrewhuntington/blob/master/devcard.svg"
     />
-  </a>
+  </a> -->
 </div>
 
 ### I'm a Nigerian, Lagos based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:akinfemi46@gmail.com). 
