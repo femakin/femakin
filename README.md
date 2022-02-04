@@ -26,7 +26,7 @@
 
 ### I'm a Nigerian, Lagos based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:akinfemi46@gmail.com). 
 
-### [My Business Card]
+### [My Business Card]()
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
