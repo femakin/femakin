@@ -27,6 +27,7 @@
 ### I'm a Nigerian, Lagos based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:akinfemi46@gmail.com). 
 
 ### [My Business Card]()
+<a href="https://app.daily.dev/femidev"><img src="https://api.daily.dev/devcards/b409034d7157454faeecc2bf95092f11.png?r=5pe" width="400" alt="Oluwafemi Akinyemi's Dev Card"/></a>
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
