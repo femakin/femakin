@@ -34,7 +34,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - Responsive Web Developer [devChallenges](https://devchallenges.io/certificates/7o9wJvnltbvfgF9r3Myu)
 
 <a href="https://progate.com/paths/node">
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLWJGsuaF5cGdclxyOXH0DGrVYOnHMEsswVPaTGJQHFNdQxU24nisDlJrR3tqLcd7ba2w9xtBxBCR-Ahtrz4Y0sE0OqfeOdAFJwCxF04gdh20TGh5Gfk-HM6wBNEytA1RINhClVAFWciyT9QGr22jsI=w1650-h1001-no?authuser=1" width="250px" height="100%"  />
+<img src="https://res.cloudinary.com/femakin/image/upload/v1670915041/7dd51df94292cc359c62597bab6bc3cfpath_certificate_4ffc8550qc681s_hcr44o.png" width="250px" height="100%"  />
 </a>
 
 - Web Development Certificate, Node.js Path (Earned June 11, 2020)
