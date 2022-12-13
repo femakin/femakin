@@ -41,14 +41,14 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 - Responsive Web Developer [devChallenges](https://devchallenges.io/certificates/7o9wJvnltbvfgF9r3Myu)
 
 <a href="https://progate.com/paths/node">
-<img src="https://devchallenges.io/certificates/7o9wJvnltbvfgF9r3Myu](https://res.cloudinary.com/femakin/image/upload/v1670915687/Screenshot_2022-12-13_at_08.14.31_iuipp6.png" width="250px" height="100%"  />
+<img src="https://res.cloudinary.com/femakin/image/upload/v1670915687/Screenshot_2022-12-13_at_08.14.31_iuipp6.png" width="250px" height="100%"  />
 </a>
 
 - Web Development Certificate, Node.js Path (Earned June 11, 2020)
 
 <!-- ![My AWS Cloud Practitioner Certification] -->
 <a href="https://progate.com/paths/node">
-<img src="[https://media-exp1.licdn.com/dms/image/C4D2DAQGbBpi0IzItVg/profile-treasury-image-shrink_1280_1280/0/1605504355945?e=1644066000&v=beta&t=yuYdauChxDEAcA0Vx0zewH47flg9YwrJTUWe5nOwFak](https://res.cloudinary.com/femakin/image/upload/v1670915041/7dd51df94292cc359c62597bab6bc3cfpath_certificate_4ffc8550qc681s_hcr44o.png)" width="250px" height="100%" />
+<img src="https://res.cloudinary.com/femakin/image/upload/v1670915041/7dd51df94292cc359c62597bab6bc3cfpath_certificate_4ffc8550qc681s_hcr44o.png" width="250px" height="100%" />
 </a>
 
  📚 I’m currently studying ...
