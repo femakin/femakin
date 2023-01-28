@@ -35,16 +35,8 @@ My passion as a developer is finding original solutions to problems regardless o
 
 Welcome to my public profile! Feel free to look around my repositories. If you have any questions, please don't hesitate to [contact me](mailto:andrew.huntington@gmail.com).
 
-📜 My certifications:
-- Responsive Web Developer [devChallenges](https://devchallenges.io/certificates/7o9wJvnltbvfgF9r3Myu)
+<!-- 📜 My certifications: -->
 
-[<a href="https://progate.com/paths/node">
-<img src="https://res.cloudinary.com/femakin/image/upload/v1670915687/Screenshot_2022-12-13_at_08.14.31_iuipp6.png" width="250px" height="100%"  />
-</a>](https://progate.com/path_certificate/4ffc8550qc681s)
-
-- Web Development Certificate, Node.js Path (Earned June 11, 2020)
-
-https://progate.com/path_certificate/4ffc8550qc681s
 
  📚 I’m currently studying ...
 - AWS Certified Solutions Architect - Associate
