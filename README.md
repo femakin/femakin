@@ -44,10 +44,7 @@ Welcome to my public profile! Feel free to look around my repositories. If you h
 
 - Web Development Certificate, Node.js Path (Earned June 11, 2020)
 
-<!-- ![My AWS Cloud Practitioner Certification] -->
-<a href="https://progate.com/paths/node">
-<img src="https://res.cloudinary.com/femakin/image/upload/v1670915041/7dd51df94292cc359c62597bab6bc3cfpath_certificate_4ffc8550qc681s_hcr44o.png" width="250px" height="100%" />
-</a>
+https://progate.com/path_certificate/4ffc8550qc681s
 
  📚 I’m currently studying ...
 - AWS Certified Solutions Architect - Associate
