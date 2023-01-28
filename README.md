@@ -27,11 +27,9 @@
 <!-- ### I'm a Nigerian, Lagos based Frontend Web Devolper. If you are interested in hiring me for a project or for your business, please send me an [email](mailto:akinfemi46@gmail.com).  -->
 
 
- I'm a Front-end (React/Redux) Developer with demonstrated skill in using React, JavaScript, and TypeScript, fetching REST and GraphQL APIs, and building enterprise products. Problem solver with sharp eyes for details. Open to developing skills and continuous improvement.
-
- Experienced in building products according to specifications using HTML5, CSS3, Tailwind CSS Javascript/TypeScript/React/Redux, and skilled at meeting deadlines. 
-
-
+I am a skilled Front-end Developer with a demonstrated ability to work with React, JavaScript, and TypeScript, as well as experience in fetching REST and GraphQL APIs and building enterprise-level products. 
+My problem-solving skills, attention to detail, and dedication to continuous improvement make me an asset to any team. I have a proven track record of building products according to specifications using technologies such as HTML5, CSS3, Tailwind CSS, JavaScript/TypeScript/React/Redux and meeting deadlines effectively. 
+My passion as a developer is finding original solutions to problems regardless of the technology involved. I am committed to the principle that any task worth doing should be done well, and I am always willing to push boundaries in order to learn and grow as a developer.
 
 
 
